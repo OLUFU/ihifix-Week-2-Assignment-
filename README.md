@@ -49,11 +49,14 @@ Key Business Questions
 Which stores have experienced the greatest decline in revenue and sales volume, and what patterns exist across regions?
 Which product categories are driving growth or decline, and how do they impact overall profitability?
 Are loyalty programme customers reducing their purchasing frequency, and which customer segments are at risk of churn?
-Decisions These Questions Will Inform
+
+Decisions :These Questions Will Inform
 Whether to close, restructure, or invest in underperforming stores.
 Which products and categories should receive increased marketing, inventory, and promotional support.
 Which customer retention strategies should be implemented to improve repeat purchases and loyalty programme engagement.
+
 Available Data
 The dataset contains approximately 50,000 records covering store performance, product sales, customer transactions, and loyalty programme activity. Key fields include store identifiers, transaction dates, product details, revenue, units sold, customer identifiers, loyalty points, and regional information. These data elements enable trend analysis, store benchmarking, product performance evaluation, and customer behaviour analysis.
+
 Reflection
 I structured the prompt using the RCTTCE framework to provide clear instructions and reduce ambiguity in the AI's response. Defining the role, context, tasks, constraints, and example ensures the output remains focused on executive decision-making while producing a concise and professional stakeholder brief.
